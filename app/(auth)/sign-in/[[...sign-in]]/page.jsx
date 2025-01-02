@@ -35,7 +35,7 @@ export default function Page() {
     
             <p className="mt-4 leading-relaxed text-white/90">
             This is the onestop solution to all the problems that u face in conducting or giving an interview.
-            a blend of tech and your efforts to give u the best postion u want.
+            A blend of tech and your efforts to give u the best postion u want.
             </p>
           </div>
         </section>
