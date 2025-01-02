@@ -89,7 +89,7 @@ function AddnewInterview() {
                                     />
                                 </div>
                                 <div className='my-3'>
-                                    <label>Job Role/Job Position</label>
+                                    <label>Job Description/Tech Stack</label>
                                     <Textarea className='mt-3' placeholder="Ex. DBMS, CN, React, NodeJs etc" required
                                     onChange={(event)=>setJobDescription(event.target.value)}
                                     />
